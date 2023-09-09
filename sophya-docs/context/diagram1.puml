@@ -7,8 +7,7 @@
 'LAYOUT_AS_SKETCH()
 LAYOUT_WITH_LEGEND()
 
-title Ei Teste
-
+title Ei Test Store
 
 Person(customer, "Personal Banking Customer", "A customer of the bank, with personal bank accounts.")
 
