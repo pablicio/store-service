@@ -9,6 +9,7 @@
 LAYOUT_WITH_LEGEND()
 title Olá Test Store
 
+
 Person(customer, "Personal Banking Customer", "A customer of the bank, with personal bank accounts.")
 
 Enterprise_Boundary(c0, "Big Bank plc") {
