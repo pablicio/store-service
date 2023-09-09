@@ -1,4 +1,4 @@
-Store service test doc
+Minha doc mudando com actions
 ============
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
